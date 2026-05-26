@@ -3,31 +3,29 @@
   <channel>
     <title>Top News</title>
     <link>https://zipfm.lt/</link>
-    <description>ZIP FM Prastumtas TOP 3 naujienų srautas</description>
+    <description>ZIP FM „Prastumtas TOP 3“ naujienų srautas su kasdieniu dienos trejetuku.</description>
     <language>lt</language>
-    <copyright>© ZIP FM 2025. Visos teisės saugomos</copyright>
-    <pubDate>Tue, 26 May 2026 19:15:34 +0300</pubDate>
+    <pubDate>Tue, 26 May 2026 20:36:00 +0300</pubDate>
     <item>
-      <title>ZIP FM Prastumtas TOP 3 (2026 05 26)</title>
+      <title>Prastumtas TOP-3 (2026 gegužės 26 d.)</title>
       <link>https://zipfm.lt/</link>
       <guid>https://zipfm.lt/</guid>
-      <description>2026-05-26 ZIP FM tituliniame puslapyje matomas trejetukas: Saulės Kliošas - "Tavo Akys", GOYA - "Dancing On My Own", G&amp;G Sindikatas - "Baltoji Varna". Pilnas dienos straipsnis siuo metu nerastas, todel tai laikinas nepilnas irasas.</description>
-      <item-image>https://zipfm.lt/wp-content/uploads/2023/11/1000x1000bb-2363.jpg</item-image>
+      <description>Trys šiandienos balsais pakelti kūriniai: miesto ritmas, arti prisiartinęs žvilgsnis ir aštresnė energija viename vakaro trejetuke.</description>
+      <item-image>https://zipfm.lt/wp-content/uploads/2023/11/1000x1000bb-2369.jpg</item-image>
       <keywords>Music, Radio, ZIP FM, Top 3</keywords>
-      <pubDate>Tue, 26 May 2026 19:15:34 +0300</pubDate>
-      <updated>Tue, 26 May 2026 19:15:34 +0300</updated>
-      <content:encoded><![CDATA[
-        <h1>ZIP FM Prastumtas TOP 3 (2026 05 26)</h1>
-        <p>Sis RSS irasas sugeneruotas is siandien, 2026 m. geguzes 26 d., ZIP FM tituliniame puslapyje matomo "Prastumtas TOP 3" trejetuko.</p>
-        <p>Pilno dienos straipsnio su papildoma informacija siuo metu patikimai rasti nepavyko, todel irasas yra laikinas ir nepilnas.</p>
-        <ul>
-          <li><strong>Saules Kliosas</strong> - <em>Tavo Akys</em></li>
-          <li><strong>GOYA</strong> - <em>Dancing On My Own</em></li>
-          <li><strong>G&amp;G Sindikatas</strong> - <em>Baltoji Varna</em></li>
-        </ul>
-        <p>Pastaba: kai ZIP FM paskelbs pilna sios dienos straipsni, si irasa reikes papildyti atlikeju faktais, pilnesniais aprasymais ir, jei bus pateikta, susijusiu vaizdo turiniu.</p>
-        <p>Pirminis saltinis: <a href="https://zipfm.lt/">https://zipfm.lt/</a></p>
-      ]]></content:encoded>
+      <pubDate>Tue, 26 May 2026 20:36:00 +0300</pubDate>
+      <updated>Tue, 26 May 2026 20:36:00 +0300</updated>
+      <content:encoded><![CDATA[<h1>Prastumtas TOP-3</h1>
+<p>Pristatome gegužės 26 d. PRASTUMTAS TOP-3, lietuviškas dainas, kurias renkate JŪS interneto svetainėje zipfm.lt</p>
+<h2>G&amp;G Sindikatas – „Baltoji varna”</h2>
+<p>Šis kūrinys įrašytas 2026 m. albume „Pikti ir nuožmūs“, kur oficialioje grupės diskografijoje jis nurodomas kaip antrasis takelis. „Lyric Video“ versija tuo pat metu kilo ir į Lietuvos „YouTube“ muzikos tendencijas.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RqpuJp3Xv1E" title="G&amp;G Sindikatas - Baltoji varna (Lyric Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<h2>Saulės Kliošas – „Tavo Akys”</h2>
+<p>„Tavo Akys“ yra naujausias „Saulės Kliošo“ singlas, „Apple Music“ pažymėtas 2026 m. gegužės 20 d. data. LRT publikuotame pristatyme grupė kūrinį apibūdina kaip pasakojimą apie ryšį, žvilgsnį ir gyvai įrašytą natūralią energiją.</p>
+<h2>Sadboi – „Paskutinį kartą”</h2>
+<p>„Sadboi“ naujieną pristatė 2026 m. gegužės 22 d.: daina pasakoja apie toksiškus santykius, o jos vaizdo klipas nufilmuotas legendinėje Palangos viloje „Auska“. Patys grupės nariai šį kūrinį vadina dar vienu naujo skambesio eksperimentu.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N_Ub_3m5vW8" title="SADBOI - Paskutinį Kartą" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p><a href="https://zipfm.lt/">Jūsų balsų laukiame</a></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
