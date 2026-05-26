@@ -1,1 +1,33 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Top News</title>
+    <link>https://zipfm.lt/</link>
+    <description>ZIP FM Prastumtas TOP 3 naujienų srautas</description>
+    <language>lt</language>
+    <copyright>© ZIP FM 2025. Visos teisės saugomos</copyright>
+    <pubDate>Tue, 26 May 2026 19:15:34 +0300</pubDate>
+    <item>
+      <title>ZIP FM Prastumtas TOP 3 (2026 05 26)</title>
+      <link>https://zipfm.lt/</link>
+      <guid>https://zipfm.lt/</guid>
+      <description>2026-05-26 ZIP FM tituliniame puslapyje matomas trejetukas: Saulės Kliošas - "Tavo Akys", GOYA - "Dancing On My Own", G&amp;G Sindikatas - "Baltoji Varna". Pilnas dienos straipsnis siuo metu nerastas, todel tai laikinas nepilnas irasas.</description>
+      <item-image>https://zipfm.lt/wp-content/uploads/2023/11/1000x1000bb-2363.jpg</item-image>
+      <keywords>Music, Radio, ZIP FM, Top 3</keywords>
+      <pubDate>Tue, 26 May 2026 19:15:34 +0300</pubDate>
+      <updated>Tue, 26 May 2026 19:15:34 +0300</updated>
+      <content:encoded><![CDATA[
+        <h1>ZIP FM Prastumtas TOP 3 (2026 05 26)</h1>
+        <p>Sis RSS irasas sugeneruotas is siandien, 2026 m. geguzes 26 d., ZIP FM tituliniame puslapyje matomo "Prastumtas TOP 3" trejetuko.</p>
+        <p>Pilno dienos straipsnio su papildoma informacija siuo metu patikimai rasti nepavyko, todel irasas yra laikinas ir nepilnas.</p>
+        <ul>
+          <li><strong>Saules Kliosas</strong> - <em>Tavo Akys</em></li>
+          <li><strong>GOYA</strong> - <em>Dancing On My Own</em></li>
+          <li><strong>G&amp;G Sindikatas</strong> - <em>Baltoji Varna</em></li>
+        </ul>
+        <p>Pastaba: kai ZIP FM paskelbs pilna sios dienos straipsni, si irasa reikes papildyti atlikeju faktais, pilnesniais aprasymais ir, jei bus pateikta, susijusiu vaizdo turiniu.</p>
+        <p>Pirminis saltinis: <a href="https://zipfm.lt/">https://zipfm.lt/</a></p>
+      ]]></content:encoded>
+    </item>
+  </channel>
+</rss>
